@@ -15,16 +15,22 @@ Just do the following things to work on this repo.
 ### Make sure the branchname is of your name to ensure who makes the pull request.
 
  3. **Work on the project and once you have something good and then use the following commands to update code on github**
- 	*git add -A*
- 	*git commit -m "YOUR MESSAGE"*
- 	*git push origin branchname*
 
+*git add -A*
+
+*git commit -m "YOUR MESSAGE"*
+
+*git push origin branchname*
 
 
  4. **To get the updated code from github use the following code:**
-	*git checkout main*
-	*git pull*
-	*git checkout branchname*
-	*git pull origin main*
+
+*git checkout main*
+
+*git pull*
+
+*git checkout branchname*
+
+*git pull origin main*
 
 ## Repeat these steps to keep working on the project.
