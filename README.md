@@ -27,4 +27,4 @@ Just do the following things to work on this repo.
 	c. *git checkout branchname*
 	d. *git pull origin main*
 
-## Repeat these steps to keep working.
+## Repeat these steps to keep working on the project.
