@@ -37,5 +37,3 @@ Just do the following things to work on this repo.
 
 ##### Repeat step (4) to keep working on the project.
 
-**Exploratory Data Analysis Findings**
- 1. 
