@@ -33,7 +33,7 @@ Just do the following things to work on this repo.
 
 - *git checkout branchname*
 
-*git pull origin main*
+- *git pull origin main*
 
 ##### Repeat step (4) to keep working on the project.
 
